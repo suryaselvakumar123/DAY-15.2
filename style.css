@@ -1,0 +1,56 @@
+
+.formstyle  
+{  
+width: 280px;  
+height: 350px;  
+margin: 20px auto;  
+border: 5px solid gainsboro; 
+border-bottom: 5px solid black;
+border-radius: 10px;  
+padding: 20px;  
+text-align: center;  
+background-color: lightgrey;  
+}  
+  
+
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: blue;  
+    color: white;  
+    }  
+input:hover  
+{
+border: 0px;    
+background-color: darkgray;  
+}  
+      
+*{  
+margin: 0;  
+padding: 0;  
+}  
+  
+.cac:hover{
+    background-color: darkgray;
+}
+.cac{  
+width: 50px;  
+height: 50px;  
+font-size: 25px;  
+margin: 3px;  
+cursor: pointer;
+border: 0px;  
+background-color: lightgrey;  
+  
+}  
+  
+
+.textview{  
+width: 230px;
+height: 50px;  
+margin: 5px;  
+font-size: 25px;  
+padding: 5px;
+border: 0px;
+background-color: darkgray;  
+} 
